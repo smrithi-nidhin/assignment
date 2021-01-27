@@ -242,7 +242,14 @@ section {
   background: #ff8664;
   margin: 4px 10px;
 }
-
+.stars i {
+  font-size: 13px;
+  color: #cf382d
+}
+/* .content {
+  width: 420px;
+ 
+} */
 .section-title p {
   margin: 0;
   margin: 0;
